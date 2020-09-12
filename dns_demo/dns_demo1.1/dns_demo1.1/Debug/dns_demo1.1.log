@@ -1,0 +1,4 @@
+﻿  dns1.1.c
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.1\dns_demo1.1\dns1.1.c(141,14): warning C4090: “=”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.1\dns_demo1.1\dns1.1.c(138,1): warning C4090: “初始化”: 不同的“const”限定符
+  dns_demo1.1.vcxproj -> E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.1\Debug\dns_demo1.1.exe

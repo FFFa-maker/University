@@ -1,0 +1,10 @@
+﻿  main.c
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(410,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(429,14): warning C4090: “=”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(470,21): warning C4090: “函数”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(426,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(434,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(437,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(817,30): warning C4090: “函数”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\dns_demo1.5\main.c(831,30): warning C4090: “函数”: 不同的“const”限定符
+  dns_demo1.5.vcxproj -> E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.5\Debug\dns_demo1.5.exe

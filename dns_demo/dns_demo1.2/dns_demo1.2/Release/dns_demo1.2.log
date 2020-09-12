@@ -1,0 +1,16 @@
+﻿F:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(dns_demo1.2.vcxproj, dns_demo1.3.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  dns1.4.c
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(254,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(273,14): warning C4090: “=”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(303,21): warning C4090: “函数”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(270,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(278,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(281,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(620,30): warning C4090: “函数”: 不同的“const”限定符
+E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\dns_demo1.2\dns1.4.c(634,30): warning C4090: “函数”: 不同的“const”限定符
+  正在生成代码
+  0 of 18 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  dns_demo1.2.vcxproj -> E:\FFFa、\大二下\计算机网络课程设计\dns_demo\dns_demo1.2\Release\dns_demo1.4.exe
